@@ -8,10 +8,10 @@ I'm a passionate full-stack developer who loves building web applications that s
 
 ### 🛠️ Tech Stack
 
-- **Frontend: HTML5, CSS3, JavaScript, React, Bootstrap
-- **Backend: Node.js, Express.js, PHP, Angular, Java
-- **Database: MySQL
-- **Tools: Git, GitHub, Postman, VS Code
+- Frontend: HTML5, CSS3, JavaScript, React, Bootstrap
+- Backend: Node.js, Express.js, PHP, Angular, Java
+- Database: MySQL
+- Tools: Git, GitHub, Postman, VS Code
 
 ---
 
